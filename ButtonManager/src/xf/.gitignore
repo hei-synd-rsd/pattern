@@ -1,0 +1,7 @@
+build-*
+**/build/
+*.pro.user
+*.pro.user.*
+*.mxproject
+**/doxygen/output/
+**/.vscode/settings.json
